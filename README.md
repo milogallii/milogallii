@@ -2,3 +2,4 @@
 - 25 y.o
 - 🇮🇹
 - Interested in low-level coding and functional programming
+- currently working on personal projects - open to work:)
