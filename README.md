@@ -7,4 +7,6 @@
 You can find all my projects on <a href="http://codeberg.org/milogallii">Codeberg</a>!
 <br/>
 <br/>
+<a href="https://sfconservancy.org/GiveUpGitHub/">
 <img src="https://github.com/milogallii/milogallii/blob/main/gug.svg" alt="Give up GitHub!" width="200px" height="200px" />
+</a>
