@@ -6,4 +6,5 @@
 
 You can find all my projects on <a href="http://codeberg.org/milogallii">Codeberg</a>!
 <br/>
-<img src="https://github.com/milogallii/milogallii/blob/main/gug.svg" alt="Give up GitHub!" width="200px" height="200px" style="margin: 20px auto; display: block;" />
+<br/>
+<img src="https://github.com/milogallii/milogallii/blob/main/gug.svg" alt="Give up GitHub!" width="200px" height="200px" />
