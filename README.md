@@ -3,4 +3,4 @@
 - 🇮🇹
 - Interested in low-level coding and functional programming
 
-You can find my projects also on <a href="http://codeberg.org/milogallii">Codeberg</a>!
+You can find my projects on <a href="http://codeberg.org/milogallii">Codeberg</a>!
