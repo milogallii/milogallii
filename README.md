@@ -1,7 +1,7 @@
 # [me]
-name = "Milo"\n
-surname = "Galli"\n
-age = 25\n
-Ilike = ["low level coding", "cybersecurity", "fooling😇", "dinosaurs"]\n
-nationality = "🇮🇹"\n
-projectson = "http://codeberg.org/milogallii"
+<p>name = "Milo"</p>
+<p>surname = "Galli"</p>
+<p>age = 25</p>
+<p>Ilike = ["low level coding", "cybersecurity", "fooling😇", "dinosaurs"]</p>
+<p>nationality = "🇮🇹"</p>
+<p>projectson = "http://codeberg.org/milogallii"</p>
