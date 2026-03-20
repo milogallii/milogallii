@@ -5,4 +5,4 @@
 <p>nationality = "🇮🇹"</p>
 <p>like = ["low level coding", "cybersecurity", "dinosaurs", "beetles"]</p>
 <p>curiosities = "Voynich Manuscript reader"</p>
-<p>projectson = "http://codeberg.org/milogallii"</p>
+<p>find_my_projects_on = "http://codeberg.org/milogallii"</p>
