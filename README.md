@@ -3,6 +3,4 @@
 <p>surname = "Galli"</p>
 <p>age = 25</p>
 <p>nationality = "🇮🇹"</p>
-<p>like = ["low level coding", "cybersecurity", "dinosaurs"]</p>
-<p>curiosities = "Voynich Manuscript reader"</p>
-<p>find_my_projects_on = "https://gitlab.com/milogallii"</p>
+<p>like = ["low level coding", "cybersecurity"]</p>
